@@ -1,8 +1,8 @@
 {
   "name": "artbyte-ui",
-  "description": "An open-source frontend for the ArtByte API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the bitcoin network and build your own services with it.",
+  "description": "An open-source frontend for the Whitecoin API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the whitecoin network and build your own services with it.",
   "version": "0.4.6",
-  "repository": "git://github.com/Bushstar/artbyte-ui.git",
+  "repository": "git://github.com/cqtenq/artbyte-ui.git",
   "contributors": [
     {
       "name": "Matias Alejo Garcia",
@@ -28,7 +28,7 @@
   "bugs": {
     "url": "https://github.com/bitpay/insight-ui/issues"
   },
-  "homepage": "https://github.com/Bushstar/artbyte-ui",
+  "homepage": "https://github.com/cqtenq/artbyte-ui",
   "license": "MIT",
   "keywords": [
     "insight",
